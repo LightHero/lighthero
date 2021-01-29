@@ -1,0 +1,15 @@
+[package]
+name = "lighthero"
+version = "0.1.0"
+authors = ["Francesco_Cina <mr.francesco.cina@gmail.com>"]
+edition = "2018"
+license = "MIT"
+description = "LightHero"
+readme = "README.md"
+homepage = "https://github.com/LightHero/lighthero"
+repository = "https://github.com/LightHero/lighthero"
+keywords = []
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
